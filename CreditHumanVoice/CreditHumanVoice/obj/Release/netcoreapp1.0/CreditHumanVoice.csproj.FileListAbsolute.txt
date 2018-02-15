@@ -1,0 +1,6 @@
+C:\Users\mcoupland\Documents\Visual Studio 2017\Projects\CreditHumanVoice\CreditHumanVoice\obj\Release\netcoreapp1.0\CreditHumanVoice.AssemblyInfo.cs
+C:\Users\mcoupland\Documents\Visual Studio 2017\Projects\CreditHumanVoice\CreditHumanVoice\bin\Release\netcoreapp1.0\CreditHumanVoice.deps.json
+C:\Users\mcoupland\Documents\Visual Studio 2017\Projects\CreditHumanVoice\CreditHumanVoice\bin\Release\netcoreapp1.0\CreditHumanVoice.dll
+C:\Users\mcoupland\Documents\Visual Studio 2017\Projects\CreditHumanVoice\CreditHumanVoice\bin\Release\netcoreapp1.0\CreditHumanVoice.pdb
+C:\Users\mcoupland\Documents\Visual Studio 2017\Projects\CreditHumanVoice\CreditHumanVoice\obj\Release\netcoreapp1.0\CreditHumanVoice.dll
+C:\Users\mcoupland\Documents\Visual Studio 2017\Projects\CreditHumanVoice\CreditHumanVoice\obj\Release\netcoreapp1.0\CreditHumanVoice.pdb

@@ -1,0 +1,7 @@
+C:\Users\mcoupland\Documents\Visual Studio 2017\Projects\CreditHumanVoice\CreditHumanVoice\obj\Debug\netcoreapp1.0\CreditHumanVoice.AssemblyInfo.cs
+C:\Users\mcoupland\Documents\Visual Studio 2017\Projects\CreditHumanVoice\CreditHumanVoice\bin\Debug\netcoreapp1.0\CreditHumanVoice.deps.json
+C:\Users\mcoupland\Documents\Visual Studio 2017\Projects\CreditHumanVoice\CreditHumanVoice\bin\Debug\netcoreapp1.0\CreditHumanVoice.dll
+C:\Users\mcoupland\Documents\Visual Studio 2017\Projects\CreditHumanVoice\CreditHumanVoice\bin\Debug\netcoreapp1.0\CreditHumanVoice.pdb
+C:\Users\mcoupland\Documents\Visual Studio 2017\Projects\CreditHumanVoice\CreditHumanVoice\obj\Debug\netcoreapp1.0\CreditHumanVoice.dll
+C:\Users\mcoupland\Documents\Visual Studio 2017\Projects\CreditHumanVoice\CreditHumanVoice\obj\Debug\netcoreapp1.0\CreditHumanVoice.pdb
+C:\Users\mcoupland\Documents\Visual Studio 2017\Projects\CreditHumanVoice\CreditHumanVoice\obj\Debug\netcoreapp1.0\CreditHumanVoice.csprojResolveAssemblyReference.cache

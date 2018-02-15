@@ -1,0 +1,7 @@
+C:\Users\mcoupland\Downloads\alexa-net-trivia-master\SpaceGeek\bin\Debug\netcoreapp1.0\SpaceGeek.deps.json
+C:\Users\mcoupland\Downloads\alexa-net-trivia-master\SpaceGeek\bin\Debug\netcoreapp1.0\SpaceGeek.dll
+C:\Users\mcoupland\Downloads\alexa-net-trivia-master\SpaceGeek\bin\Debug\netcoreapp1.0\SpaceGeek.pdb
+C:\Users\mcoupland\Downloads\alexa-net-trivia-master\SpaceGeek\obj\Debug\netcoreapp1.0\SpaceGeek.csprojResolveAssemblyReference.cache
+C:\Users\mcoupland\Downloads\alexa-net-trivia-master\SpaceGeek\obj\Debug\netcoreapp1.0\SpaceGeek.AssemblyInfo.cs
+C:\Users\mcoupland\Downloads\alexa-net-trivia-master\SpaceGeek\obj\Debug\netcoreapp1.0\SpaceGeek.dll
+C:\Users\mcoupland\Downloads\alexa-net-trivia-master\SpaceGeek\obj\Debug\netcoreapp1.0\SpaceGeek.pdb
